@@ -12,8 +12,8 @@ you can find the parameters:
 * dis=5 (Thickness of material used for the compartments and bottom)
 * das=10 (Thickness of material used for frame)
 * df=2 (Cutting bit diameter)
-* hs = [140, 280] (Positions of compartments, horizontally)
-* vs = [115, 230] (Positions of compartments, vertically)
+* hs = \[140, 280\] (Positions of compartments, horizontally)
+* vs = \[115, 230\] (Positions of compartments, vertically)
 
 
 The script requires the "dxfwrite" library to be installed.
